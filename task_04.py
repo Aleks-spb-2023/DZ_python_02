@@ -1,4 +1,4 @@
-numbers = ["1", "2"]
+
 data = open("text.txt", "r")
 
 
